@@ -1,3 +1,9 @@
+* {
+    margin: 0px;
+    bottom: 0px;
+    padding: 0px;
+}
+
 .logoBootstrap {
     vertical-align: middle;
 }
@@ -6,3 +12,33 @@
     background-color: rgba(169, 169, 169, 0.5);
     border-radius: 4px;
 }
+
+/* ESTILOS DE COR DE SÍMBOLOS */
+.dobleExclamation {
+    display: inline-block;
+
+    color: #ff0000;
+}
+
+
+
+
+
+
+
+.fab fa-html5 {
+    display: inline-block;
+    vertical-align: middle;
+}
+h3 {
+    display: inline-block;
+}
+
+
+/* CONFIGURANDO A PARTE DE - [DIW] */
+#diw > h2 {
+    margin: 20px;
+    padding: auto;
+}
+
+
